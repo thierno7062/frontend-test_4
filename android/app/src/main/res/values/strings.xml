@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">frontend-test_4</string>
+    <string name="title_activity_main">frontend-test_4</string>
+    <string name="package_name">frontend.test_4</string>
+    <string name="custom_url_scheme">frontend.test_4</string>
+</resources>
